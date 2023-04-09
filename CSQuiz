@@ -27,6 +27,7 @@ Code source HTML
             <label for="température">(Température en degre°c)</label>
             <input type="number" name="température" id="température" required>
         </div>
+	
         <div>
             <h3>Question 2</h3>
             <label for="symptome">Symptome?</label>
